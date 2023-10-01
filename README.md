@@ -1,4 +1,4 @@
-# React TypeScript Starter Pack
+# Filter people table
 
 To use this template click `Use this template`
 
