@@ -1,9 +1,18 @@
 # Filter people table
 
-To use this template click `Use this template`
+# [DEMO LINK](https://bonum-taurus.github.io/List-of-posts_react_redux/)
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Technologies used
+- HTML
+- css
+- scss
+- bulma
+- classnames
+- java script
+- JSX
+- typescript
+- react
+- react-dom
+- @reduxjs/toolkit
+- react-redux
+- react-router-dom
