@@ -1,6 +1,6 @@
 # Filter people table
 
-# [DEMO LINK](https://bonum-taurus.github.io/List-of-posts_react_redux/)
+# [DEMO LINK](https://bonum-taurus.github.io/Filter-people-table_react/)
 
 # Technologies used
 - HTML
